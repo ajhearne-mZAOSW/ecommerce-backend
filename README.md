@@ -105,7 +105,7 @@ A video showing process for using the application can be found [here.](./assets/
 
 ## Credits
 
-- Learning foudation provided by University of Sydney, USYD-VIRT-FSF-PT-05-2024-U-LOLC/12-SQL/01-Activities
+- Learning foudation provided by University of Sydney, USYD-VIRT-FSF-PT-05-2024-U-LOLC/13-ORM/01-Activities
 
 ## License
 
